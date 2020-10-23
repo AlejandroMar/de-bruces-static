@@ -1,4 +1,4 @@
-./bootstrap_theme/bootstrap
-./bootstrap
-./_pgbackup
-./components
+/bootstrap_theme/bootstrap
+/bootstrap
+/_pgbackup
+/components
