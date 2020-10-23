@@ -1,0 +1,13 @@
+.logo_img {
+    width: 50%;
+}
+
+.icon_font_size {
+    font-size: 1.2rem;
+}
+
+@media (max-width:575px) {
+    .icon_font_size {
+        font-size: 1rem;
+    }
+}

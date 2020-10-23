@@ -1,0 +1,12 @@
+/* Bootstrap theme customized with Pinegrow Web Editor */
+/* Vars go before the @import */
+/* Import the Bootstrap files */
+$blue: #007bff;
+$yellow: #ffc107;
+$cyan: #17a2b8;
+$primary: $yellow;
+$info: $blue;
+
+@import "bootstrap/bootstrap";
+
+/* Custom CSS rules come here */
