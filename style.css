@@ -18,3 +18,29 @@
     margin-right: auto;
 }
 
+.bio__background-image {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    background-image: url('assets/img/DE-BRUCES-A-MI-MEDELLIN-REGGAE-1536x1000.jpg');
+    background-origin: border-box;
+    background-clip: border-box;
+}
+
+.page-footer {
+    margin-top: 9%;
+}
+
+.footer__copy-right {
+    text-align: right; 
+}
+
+@media (max-width:767px) {
+    .footer__copy-right {
+        text-align: center;
+        margin-top: 1rem;
+    }
+}
+
+
+
