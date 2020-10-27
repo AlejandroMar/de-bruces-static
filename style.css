@@ -30,6 +30,18 @@
     text-align: right; 
 }
 
+.bio__photo-strip div {
+    padding-left: .1rem;
+    padding-right: .1rem;
+}
+
+.videos__video-strip div {
+    padding-left: .1rem;
+    padding-right: .1rem;
+}
+
+
+
 
 
  /* Media queries */
@@ -44,5 +56,20 @@
     .footer__copy-right {
         text-align: center;
         margin-top: 1rem;
+    }
+}
+
+/* bio featured image */
+
+@media (max-width:767px) {
+    .bio__background-image {
+        height: 40vh; 
+        
+    }
+}
+
+@media (max-width:575px) {
+    .bio__background-image {
+        height: 30vh;    
     }
 }
