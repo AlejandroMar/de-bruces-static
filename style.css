@@ -98,3 +98,10 @@
     width: 90%;
     margin: 0 auto;
 }
+
+/* support page */
+
+.payu-icon {
+   width: 4rem;
+   color: black;
+}
