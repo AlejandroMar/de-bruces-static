@@ -36,8 +36,8 @@
 }
 
 .videos__video-strip div {
-    padding-left: .1rem;
-    padding-right: .1rem;
+    padding-left: .3rem;
+    padding-right: .3rem;
 }
 
 /* Media queries */
@@ -90,4 +90,11 @@
 
 .albums__col {
     height: 380px;
+}
+
+/* video__page */
+
+.videos__container {
+    width: 90%;
+    margin: 0 auto;
 }
