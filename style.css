@@ -40,6 +40,24 @@
     padding-right: .3rem;
 }
 
+.our-music {
+    position: relative;
+}
+
+.our-music__svg-bg {
+    position: absolute;
+    fill: #ffc107;
+    
+    z-index: -1;
+}
+.our-music__svg-bg-left {
+    left: -80%;
+}
+
+.our-music__svg-bg-right {
+    right:  -80%;
+}
+
 /* Media queries */
 @media (max-width:575px) {
     .icon_font_size {
